@@ -34,7 +34,14 @@ easter egg: [Hump de Bump](https://youtu.be/OM9uMJWtNww)
 
 ## Beautiful
 
-TODO @vhaidamus
+Don't ever say this word at the office
+EVER. NEVER EVER.
+
+You probably want to say it, don't you?
+You have probably already have said it, didn't you?
+
+And you have probably heard someone singing ["beautiful"](https://www.youtube.com/watch?v=_FE194VN6c4) in a highly picthed voice.
+We actually don't know how this started but that will happen EVERY TIME you say that word.
 
 ## WTFriday
 
