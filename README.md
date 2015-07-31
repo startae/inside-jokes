@@ -13,7 +13,7 @@ Parece que estamos falando Grego de vez em quando? Sempre que rolar uma parada q
 1. [Quem é Ivan?](#quem-é-ivan)
 2. ["Oh no!"](#oh-no)
 3. ["Beautiful"](#beautiful)
-4. ["WTFriday"](#wtfriday)
+4. [WTFriday](#wtfriday)
 
 ## Quem é Ivan?
 
@@ -29,7 +29,7 @@ TODO
 
 ## WTFriday
 
-Você entrou no #slack e se deparou os gifs mais loucos do mundo? Provavelmente
+Você entrou no Slack e se deparou os gifs mais loucos do mundo? Provavelmente
  estamos na wtfriday: dia de acordar, tomar aquele café e contribuir com o seu crazy gif.
 
 ![](http://media0.giphy.com/media/qvt4tdGs8H612/giphy.gif)
