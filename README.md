@@ -17,7 +17,10 @@ It seems like we're speaking another language sometimes? If that happens, there'
 
 ## Who is Ivan?
 
-Watch [MUNDO DOS NEGÓCIOS](https://youtu.be/cPbl26Fw-dk).
+Have you ever heard someone saying "POOOORRA IVAN"? Or have you ever been called Ivan, even though that's not your name?
+And after that, have you ever looked around the office for any Ivan and could not found anyone with that name?
+
+Find more about Ivan [here](https://youtu.be/cPbl26Fw-dk).
 
 ## Oh no!
 
