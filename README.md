@@ -31,3 +31,5 @@ TODO
 
 Você entrou no #slack e se deparou os gifs mais loucos do mundo? Provavelmente
  estamos na wtfriday: dia de acordar, tomar aquele café e contribuir com o seu crazy gif.
+
+![](http://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif)
