@@ -4,7 +4,7 @@ Someone told an inside joke and your reaction was:
 
 ![](http://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif)
 
-It seems like we're speaking another language sometimes? If that happens, there's a chance the answer you're looking is here.
+It seems like we're speaking another language sometimes? If that happens, there's a chance the answer you're looking for is here.
 
 ![](http://31.media.tumblr.com/f9b0f13eaf8a8436614c0a9662c2625d/tumblr_n1bgx5gtyT1s0t69oo1_500.gif)
 
