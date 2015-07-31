@@ -1,6 +1,6 @@
-# Referências do Startaê
+# Startaê's references
 
-Alguém contou uma piada interna no Slack e a sua reação foi:
+Someone told an inside joke your reaction was:
 
 ![](http://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif)
 
