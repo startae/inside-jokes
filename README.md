@@ -1,35 +1,34 @@
 # Startaê's references
 
-Someone told an inside joke your reaction was:
+Someone told an inside joke and your reaction was:
 
 ![](http://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif)
 
-Parece que estamos falando Grego de vez em quando? Sempre que rolar uma parada que você não entendeu, a chance da resposta estar aqui é muito grande.
+It seems like we're speaking another language sometimes? If that happens, there's a chance the answer you're looking is here.
 
 ![](http://31.media.tumblr.com/f9b0f13eaf8a8436614c0a9662c2625d/tumblr_n1bgx5gtyT1s0t69oo1_500.gif)
 
 ## Table of Contents
 
-1. [Quem é Ivan?](#quem-é-ivan)
+1. [Who is Ivan?](#who-is-ivan)
 2. ["Oh no!"](#oh-no)
 3. ["Beautiful"](#beautiful)
 4. [WTFriday](#wtfriday)
 
-## Quem é Ivan?
+## Who is Ivan?
 
-Assista [MUNDO DOS NEGÓCIOS](https://youtu.be/cPbl26Fw-dk).
+Watch [MUNDO DOS NEGÓCIOS](https://youtu.be/cPbl26Fw-dk).
 
 ## Oh no!
 
-TODO
+TODO @vhaidamus
 
 ## Beautiful
 
-TODO
+TODO @vhaidamus
 
 ## WTFriday
 
-Você entrou no Slack e se deparou os gifs mais loucos do mundo? Provavelmente
- estamos na wtfriday: dia de acordar, tomar aquele café e contribuir com o seu crazy gif.
+You went to Slack and found the weirdest gifs ever? Probably, it's wtfriday: you wake up, drink your coffe and contribute with the craziest gif you can find.
 
 ![](http://media0.giphy.com/media/qvt4tdGs8H612/giphy.gif)
